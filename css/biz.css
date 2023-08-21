@@ -1,0 +1,42 @@
+.img-title {
+    position: absolute;
+    padding-top: 0;
+    padding-bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.87); 
+    opacity: 0.9;
+
+}
+.img-container {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.img-fluid {
+    border: 10px solid white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.container {
+    margin-top: 50px;
+}
+
+.col-md-4 {
+    margin-bottom: 30px;
+}
+h3 {
+    margin-top: 15px;
+    font-size: 24px;
+    color: #343a40;
+}
+
+p {
+    color: #6c757d;
+}
+
+body {
+    background-color: rgb(233, 223, 223)!important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}

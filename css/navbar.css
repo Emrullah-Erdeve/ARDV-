@@ -67,6 +67,7 @@
    } 
    /*HAMBURGER MENU*/
    .hamburger {
+    color: aliceblue;
     display: none;
     font-size: 24px;
     user-select: none;
@@ -81,7 +82,7 @@
    .menu { 
     display:none;
     position: absolute;
-    background-color:#532A13;
+    background: linear-gradient(to right, white 20%, green 80%); /* Arkaplan rengini yarısı yeşil yarısı beyaz olarak ayarlar */
     right: 0;
     left: 0;
     text-align: center;
